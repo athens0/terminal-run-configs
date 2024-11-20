@@ -22,6 +22,6 @@ There only one parameter in settings:
 
 ## Release Notes
 
-### 0.1
+### 1.0.0
 
 Initial release of extension

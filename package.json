@@ -3,6 +3,9 @@
   "displayName": "Terminal Run Configs",
   "description": "Quickly execute terminal commands!",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/athens0/terminal-run-configs"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
